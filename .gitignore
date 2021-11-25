@@ -1,2 +1,4 @@
-src/
-*.jar
+node_modules/
+yarn.lock
+env/
+__pycache__/
